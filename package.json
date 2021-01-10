@@ -2,6 +2,7 @@
   "name": "sender",
   "version": "1",
   "description": "messaging application",
+  "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
     "socket.io": "^3.0.5"
