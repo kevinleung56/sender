@@ -6,6 +6,7 @@
     "express": "^4.17.1",
     "socket.io": "^3.0.5"
   },
+  "license": "GPL-3.0",
   "scripts": {
     "start": "node index.js"
   }
