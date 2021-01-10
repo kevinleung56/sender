@@ -1,6 +1,6 @@
 {
   "name": "sender",
-  "version": "1",
+  "version": "1.0.0",
   "description": "messaging application",
   "dependencies": {
     "express": "^4.17.1",
